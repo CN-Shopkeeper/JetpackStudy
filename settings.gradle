@@ -1,0 +1,24 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "JetpackStudy"
+include ':app'
+include ':lifecycle'
+include ':viewmodel'
+include ':livedata'
+include ':livedata2'
+include ':databinding'
+include ':databinding2'
+include ':databinding3'
+include ':databinding4'
+include ':databinding5'
+include ':databinding6'
+include ':databinding7'
+include ':room'
+include ':room2'
+include ':navigation'
