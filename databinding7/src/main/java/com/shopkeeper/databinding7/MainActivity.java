@@ -21,10 +21,5 @@ public class MainActivity extends AppCompatActivity {
         MyViewModel viewModel=new ViewModelProvider(this,new ViewModelProvider.AndroidViewModelFactory(getApplication())).get(MyViewModel.class);
         binding.setViewModel(viewModel);
         binding.setLifecycleOwner(this);
-        livedata.addObserver(getLifecycleowner,new Observable(){
-            onChange(){
-
-            }
-        })
     }
 }
