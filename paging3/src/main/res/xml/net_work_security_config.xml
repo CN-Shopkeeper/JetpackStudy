@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 用于访问本地服务器 -->
+<?xml version="1.0" encoding="utf-8"?><!-- 用于访问本地服务器 -->
 <network-security-config>
     <base-config cleartextTrafficPermitted="true" />
 </network-security-config>
