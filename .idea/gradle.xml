@@ -26,7 +26,8 @@
             <option value="$PROJECT_DIR$/navigation3deeplink" />
             <option value="$PROJECT_DIR$/paging" />
             <option value="$PROJECT_DIR$/paging2" />
-            <option value="$PROJECT_DIR$/paging3" />
+            <option value="$PROJECT_DIR$/paging3ItemKeyed" />
+            <option value="$PROJECT_DIR$/paging4boundarycallback" />
             <option value="$PROJECT_DIR$/pagingbeta" />
             <option value="$PROJECT_DIR$/room" />
             <option value="$PROJECT_DIR$/room2" />
