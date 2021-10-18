@@ -24,8 +24,8 @@
             <option value="$PROJECT_DIR$/navigation" />
             <option value="$PROJECT_DIR$/navigation2ui" />
             <option value="$PROJECT_DIR$/navigation3deeplink" />
-            <option value="$PROJECT_DIR$/paging" />
-            <option value="$PROJECT_DIR$/paging2" />
+            <option value="$PROJECT_DIR$/paging1Positional" />
+            <option value="$PROJECT_DIR$/paging2PageKeyed" />
             <option value="$PROJECT_DIR$/paging3ItemKeyed" />
             <option value="$PROJECT_DIR$/paging4boundarycallback" />
             <option value="$PROJECT_DIR$/pagingbeta" />
